@@ -5,7 +5,7 @@
       "pool" : "stratum:tcp://pool.verus.io",
       "port" : "9998",
       "ports" : ["9998", "9999", "19999"],
-      "type"  :  4,
+      "type"  :  1,
       "url" : "https://pool.verus.io",
       "ip" : "162.55.8.164"
     },
@@ -14,7 +14,7 @@
       "pool" : "stratum+tcp://na.luckpool.net",
       "port" : "3960",
       "ports" : ["3960", "3958", "3957", "3956"],
-      "type"  :  3,
+      "type"  :  2,
       "url" : "https://luckpool.net/verus",
       "ip" : "149.56.27.47"
     },
@@ -23,7 +23,7 @@
       "pool" : "stratum+tcp://eu.luckpool.net",
       "port" : "3960",
       "ports" : ["3960", "3958", "3957", "3956"],
-      "type"  :  2,
+      "type"  :  3,
       "url" : "https://luckpool.net/verus",
       "ip" : "79.137.70.48"
     },
@@ -32,7 +32,7 @@
       "pool" : "stratum+tcp://ap.luckpool.net",
       "port" : "3960",
       "ports" : ["3960", "3958", "3957", "3956"],
-      "type"  :  1,
+      "type"  :  4,
       "url" : "https://luckpool.net/verus",
       "ip" : "139.99.123.225"
     }
