@@ -1,7 +1,7 @@
 {
   "pools" : [
     {
-      "key" : "Verus Project (Official Pool)",
+      "key" : "Verus Project (Community Pool)",
       "pool" : "stratum:tcp://pool.verus.io",
       "port" : "9998",
       "ports" : ["9998", "9999", "19999"],
