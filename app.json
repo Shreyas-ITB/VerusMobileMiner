@@ -16,7 +16,8 @@
       "ports" : ["3960", "3958", "3957", "3956"],
       "type"  :  2,
       "url" : "https://luckpool.net/verus",
-      "ip" : "149.56.27.47"
+      "ip" : "149.56.27.47",
+      "icon": "https://raw.githubusercontent.com/Shreyas-ITB/VerusMobileMiner/main/poolicons/luckpoolicon.png"
     },
     {
       "key" : "LuckPool Europe",
@@ -25,7 +26,8 @@
       "ports" : ["3960", "3958", "3957", "3956"],
       "type"  :  3,
       "url" : "https://luckpool.net/verus",
-      "ip" : "79.137.70.48"
+      "ip" : "79.137.70.48",
+      "icon": "https://raw.githubusercontent.com/Shreyas-ITB/VerusMobileMiner/main/poolicons/luckpoolicon.png"
     },
     {
       "key" : "LuckPool Asia-Pacific",
@@ -34,7 +36,8 @@
       "ports" : ["3960", "3958", "3957", "3956"],
       "type"  :  4,
       "url" : "https://luckpool.net/verus",
-      "ip" : "139.99.123.225"
+      "ip" : "139.99.123.225",
+      "icon": "https://raw.githubusercontent.com/Shreyas-ITB/VerusMobileMiner/main/poolicons/luckpoolicon.png"
     }
   ]
 }
